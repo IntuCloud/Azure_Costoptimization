@@ -1,6 +1,6 @@
 ### Publishing a tool in the Azure Marketplace involves several steps, from preparing your solution to getting it certified by Microsoft. Here's an overview of the process:
 
-1. *Prepare Your Solution*: Ensure your tool is ready for deployment in Azure, including documentation, pricing, and support details. You may need to package your solution as an Azure Resource Manager (ARM) template, virtual machine (VM) image, or container, depending on the type of offering.
+1. **Prepare Your Solution**: Ensure your tool is ready for deployment in Azure, including documentation, pricing, and support details. You may need to package your solution as an Azure Resource Manager (ARM) template, virtual machine (VM) image, or container, depending on the type of offering.
 
 2. *Create a Partner Center Account*: Sign up for a Partner Center account if you don't already have one. Partner Center is the portal where you'll manage your listings.
 
