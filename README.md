@@ -18,18 +18,12 @@
     Improved ROI: Maximize the value of your Azure investment.
     Time-Saving: Automate cost management tasks and reduce manual effort.
 
-### Target Audience:
-
-    IT professionals
-    Cloud architects
-    Financial managers
-    Business leaders
 
 ### Sample Marketing Copy:
 
 Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehensive solution to help you optimize your cloud spending. By providing real-time insights into your usage patterns and identifying areas for improvement, we empower you to make data-driven decisions and maximize your ROI.
 
-### Key features include:
+    ### Key features include:
 
     Cost analysis and reporting: Gain a deep understanding of your spending trends.
     Resource optimization: Identify underutilized resources and right-size your infrastructure.
@@ -41,9 +35,8 @@ Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehe
 #### Slide 1: Title Slide
 
     Title: Optimize Your Azure Costs: A Comprehensive Solution
-    Your Company Logo
-    Your Name and Title
-
+           Intu Cloud FinOps
+           
 #### Slide 2: Introduction
 
     Problem Statement: The ever-increasing complexity of cloud environments can lead to significant overspending.
@@ -57,7 +50,9 @@ Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehe
 #### Slide 3: How It Works
 
     Simple Steps:
+        Its completely a SaaS solution 
         Connect to your Azure environment.
+        you can deploy powerBI workspace for visualization and reporting    
         Analyze your usage data.
         Receive actionable insights and recommendations.
         Implement cost-saving measures.
@@ -65,7 +60,7 @@ Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehe
 #### Slide 4: Key Features
 
     Cost Analysis:
-        Detailed breakdowns of spending by service, resource, and subscription.
+        Detailed breakdowns of spending by resources and subscription.
         Historical trends and forecasts.
     Resource Optimization:
         Identification of underutilized or oversized resources.
@@ -79,14 +74,7 @@ Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehe
 
 #### Slide 5: Customer Success Stories
 
-    Case Study 1: Company A reduced Azure costs by 15% by implementing our tool's recommendations.
-    Case Study 2: Company B improved resource utilization by 15%, leading to significant cost savings.
-
-#### Slide 6: Demo
-
-    Live Demonstration: Showcasing the tool's key features and capabilities.
-    Focus on Ease of Use: Highlight the intuitive interface and simple navigation.
-    Address Common Questions: Answer any questions the audience may have during the demo.
+    Case Study 1: One of Big 4 accounting company reduced Azure costs by 15% by implementing our tool's recommendations.
 
 #### Slide 7: Pricing and Packages
 
