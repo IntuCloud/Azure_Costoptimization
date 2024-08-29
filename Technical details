@@ -2,11 +2,31 @@
 
 FinOps Approaches
 
-i) Understanding the cloud Usage and Cost
+### i) Understanding the cloud Usage and Cost
    Data ingestion
    Allocation
    Reports and Visualization
    Anomaly detection
    Real-time cost integration
+
+### 2) Optimize usage and cost
+   Optimize cost based on 3 tier FinOps strategy
+
+#### 1. Information Tier:
+Data Collection: Gather data on Azure usage, costs, and resource utilization.
+Data Analysis: Analyze the collected data to identify trends, patterns, and areas for optimization.
+Data Visualization: Create visualizations to make the data more understandable and actionable.
+
+#### 2. Optimization Tier:
+Cost Optimization: Identify and implement strategies to reduce Azure costs, such as rightsizing resources, using reserved instances, and optimizing billing models.
+Performance Optimization: Ensure that Azure resources are performing optimally to avoid unnecessary costs and maximize value.
+Governance and Compliance: Establish policies and guidelines to ensure that Azure usage aligns with organizational standards and regulatory requirements.
+
+#### 3. Collaboration Tier:
+Cross-Functional Collaboration: Foster collaboration between finance, IT, and business teams to ensure effective cost management and optimization.
+Continuous Improvement: Establish a culture of continuous improvement and innovation to drive ongoing cost optimization and value realization.
+FinOps Center of Excellence: Consider creating a dedicated FinOps Center of Excellence to provide centralized leadership, expertise, and support.
+
+
 
 
