@@ -9,15 +9,14 @@
 
 ### Tagline:
 
-    "Intelligent cost management for a smarter Azure"
+    "Intelligent cost management for a smarter Azure"    
 
 ### Key Benefits:
 
-    Increased Visibility: Gain a clear understanding of your Azure spending patterns.
     Enhanced Efficiency: Identify underutilized resources and optimize your cloud footprint.
     Improved ROI: Maximize the value of your Azure investment.
     Time-Saving: Automate cost management tasks and reduce manual effort.
-
+    Increased Visibility: Gain a clear understanding of your Azure spending patterns.
 
 ### Sample Marketing Copy:
 
@@ -25,10 +24,12 @@ Are you tired of skyrocketing Azure costs? Our innovative tool offers a comprehe
 
     ### Key features include:
 
-    Cost analysis and reporting: Gain a deep understanding of your spending trends.
     Resource optimization: Identify underutilized resources and right-size your infrastructure.
-    Recommendations: Receive tailored suggestions for cost savings.
+    Recommendations: Receive conservative recommendations for cost savings.
     Integration with Azure: Seamlessly connect to your Azure environment.
+     Cost analysis and reporting: Gain a deep understanding of your spending trends.
+
+     
 
 ## Presentation:
 
