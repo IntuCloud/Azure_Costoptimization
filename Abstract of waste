@@ -1,5 +1,7 @@
 ## Abstract Concept of Waste in Azure Cost Optimization
- - Waste in Azure cost optimization can be conceptualized as a deviation from optimal resource utilization or spending. It represents the gap between the actual cost incurred and the minimum cost required to achieve the desired outcome. This concept encompasses various forms of inefficiency, including:
+ - Waste in Azure cost optimization can be conceptualized as a deviation from optimal resource utilization or spending. 
+It represents the gap between the actual cost incurred and the minimum cost required to achieve the desired outcome. 
+This concept encompasses various forms of inefficiency, including:
 
 ### Underutilization:
 	• Idle resources: Resources that are not actively used or are used below their capacity.
