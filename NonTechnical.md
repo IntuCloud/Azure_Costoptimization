@@ -10,13 +10,32 @@
 ### Tagline:
 
     "Intelligent cost management for a smarter Azure"    
+    
+### Why is it important?
+
+    Save money: By optimizing your Azure usage, you can reduce your cloud spending and allocate resources more effectively.
+    Improve efficiency: Azure Cost Optimization helps you identify and eliminate waste, ensuring that you're only paying for what you need.
+    Enhance sustainability: By reducing your cloud footprint, you can contribute to a more sustainable digital environment
 
 ### Key Benefits:
 
-    Enhanced Efficiency: Identify underutilized resources and optimize your cloud footprint.
+    Optimized Cloud Infrastrucutre: Identify underutilized resources and optimize your cloud footprint.
     Improved ROI: Maximize the value of your Azure investment.
     Time-Saving: Automate cost management tasks and reduce manual effort.
     Increased Visibility: Gain a clear understanding of your Azure spending patterns.
+    Sustainable development : Identify the carbon emission footprint for each resources and savings interms of carbon optimization
+
+### How does it work?
+
+    Azure Cost Optimization involves a combination of tools, strategies, and best practices. 
+    
+    ### Here's a simplified overview:
+    Tools Capability:  Identfies the resources are over provisioned and mis-configured (with anomalies)
+    Analyze your usage: Understand how you're using Azure services and identify areas where you can cut costs.
+    Optimize resource allocation: Ensure that your resources are sized appropriately and that you're not paying for excess capacity.    
+    Utilize cost management tools: Azure provides tools to help you track your spending, set budgets, and receive alerts.
+    Consider hybrid cloud solutions: Evaluate if a combination of on-premises and cloud resources can be more cost-effective.
+    Leverage reserved instances & Savings Plans : Commit to a specific usage level to get discounted rates.
 
 ### Sample Marketing Copy:
 
